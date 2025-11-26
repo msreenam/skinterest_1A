@@ -15,10 +15,10 @@ Skinterest is a company based in New York City that aims to transform the dermat
   - Remove potential spam content
   - Faciliate communication and meetings with Skinterest co-founders 
 
-- Name 2 – GitHub: @handle2  
-  <!-- - Data cleaning and preprocessing  
-  - Sentiment feature engineering  
-  - Exploratory data analysis -->
+- Name 2 – GitHub: @ritpra93 
+ -  Performed full customer segmentation using K-Means (k = 3–15) and hierarchical clustering, selecting final clusters using silhouette and Davies–Bouldin scores.
+ -  Identified signature brands, top product categories, keyword themes, and pain points per segment to build clear customer personas.
+ -  Created GitHub-ready visualizations and persona summaries, including sentiment distributions, keyword charts, and radar-style persona profiles.
 
 - Name 3 – GitHub: @handle3  
   <!-- - TF–IDF pain-point extraction  
