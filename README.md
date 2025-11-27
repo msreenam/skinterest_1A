@@ -20,10 +20,10 @@ Skinterest is a company based in New York City that aims to transform the dermat
  -  Identified signature brands, top product categories, keyword themes, and pain points per segment to build clear customer personas.
  -  Created GitHub-ready visualizations and persona summaries, including sentiment distributions, keyword charts, and radar-style persona profiles.
 
-- Name 3 – GitHub: @handle3  
-  <!-- - TF–IDF pain-point extraction  
-  - Persona creation and marketing strategy  
-  - Documentation and slides -->
+- Diya Hundiwala – GitHub: @diyahundiwala
+  - Text Cleaning: removed HTML tags, special characters, and non-ASCII characters from review text and titles.
+  - Sentiment Analysis: Brand/Product Sentiment --> Identify which brands or products receive the most positive or negative feedback.
+  - Marketing Strategy and Recommendations: Insights from the analysis were translated into targeted marketing actions for each segment, suggesting effective messaging, positioning, and engagement strategies while also identifying opportunities for cross-selling and upselling. Developed tailored recommendations for each community, suggested optimal channels, messaging, and content types, and identified positioning and promotional strategies.
 
 - Name 4 – GitHub: @handle3  
   <!-- - TF–IDF pain-point extraction  
