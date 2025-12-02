@@ -49,7 +49,12 @@ This project operationalizes Skinterest’s mission to deliver inclusive, insigh
   * Performed product/brand-level sentiment analysis
   * Developed tailored marketing strategy per community, including channels, messaging, and positioning
 
-* **Name 4** – GitHub: @handle3
+* **Kyle Wong** – GitHub: @kylewxng
+
+  * Addressed missing ratings, incomplete review text, or missing product information
+  * Determined whether the reviews express positive, negative, or neutral sentiments
+  * Created actionable personas (e.g., "Budget acne-focused students," "Premium anti-aging buyers")
+  * Identified signature products, brands, and common pain points per segment
 
 * **Name 5** – GitHub: @handle3
 
