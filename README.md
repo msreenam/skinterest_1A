@@ -56,7 +56,11 @@ This project operationalizes Skinterest’s mission to deliver inclusive, insigh
   * Created actionable personas (e.g., "Budget acne-focused students," "Premium anti-aging buyers")
   * Identified signature products, brands, and common pain points per segment
 
-* **Name 5** – GitHub: @handle3
+* **Daniel Jachero** – GitHub: @Daniel-Jac
+  
+  * Collaborated with Eva Li on data cleaning by filtering duplicate reviews, removing very short (<10 words) entries, and potential spam content
+  * Identified positioning and promotional strategies and created sample campaign concepts for target segments
+
 
 * **Name 6** – GitHub: @handle3
 
