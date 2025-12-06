@@ -69,9 +69,11 @@ This project operationalizes Skinterest’s mission to deliver inclusive, insigh
   * Researched insights on each clustered community
   
 
-* **Name 7** – GitHub: @handle3
-
----
+* **Anjalu Vajjalla** – GitHub: @anjalivajjalla  
+  * Built the customer-level dataset by aggregating individual review histories
+  * Engineered features to standardize and structure review data
+  * Performed customer segmentation and sentiment analysis
+  * Prepared documentation and deliverables summarizing methods and insights
 
 ## Project Summary
 
