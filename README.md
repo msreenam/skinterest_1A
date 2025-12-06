@@ -36,7 +36,7 @@ This project operationalizes Skinterest’s mission to deliver inclusive, insigh
   * Removed potential spam content
   * Facilitated communication with Skinterest co-founders
 
-* **Name 2** – GitHub: @ritpra93
+* **Ritesh Prabhu** – GitHub: @ritpra93
 
   * Performed customer segmentation using K-Means (k = 3–15) and hierarchical clustering
   * Selected optimal clusters using silhouette and Davies–Bouldin scores
