@@ -97,6 +97,7 @@ This project operationalizes Skinterest’s mission to deliver inclusive, insigh
 │   ├── reviews_750-1250_masked.csv
 │   └── reviews_1250-end_masked.csv
 ├── Skinterest1A.ipynb
+├── skinterest1a.py
 └── README.md
 ```
 
