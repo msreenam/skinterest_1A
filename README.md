@@ -62,7 +62,12 @@ This project operationalizes Skinterest’s mission to deliver inclusive, insigh
   * Identified positioning and promotional strategies and created sample campaign concepts for target segments
 
 
-* **Name 6** – GitHub: @handle3
+* **Meera Nambiar** – GitHub: @msreenam
+
+  * Addressed missing ratings, incomplete review text, or missing product information
+  * Determined whether the reviews express positive, negative, or neutral sentiments
+  * Researched insights on each clustered community
+  
 
 * **Name 7** – GitHub: @handle3
 
